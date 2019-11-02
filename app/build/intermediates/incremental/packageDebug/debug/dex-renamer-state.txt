@@ -1,0 +1,4 @@
+#Sat Nov 02 10:21:52 ICT 2019
+base.0=C\:\\Users\\fauza\\Downloads\\Compressed\\LatUTS_PhoneShop\\LatUTS_PhoneShop\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
